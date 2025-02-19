@@ -27,16 +27,19 @@ A simple **Student Management System** built using **Java Swing** that allows us
    ```sh
    git clone https://github.com/yourusername/student-management-system.git
 ---
-📌 Future Improvements
+
+## 📌 Future Improvements
 ✅ Store student data in a database (e.g., MySQL, SQLite).
 ✅ Implement file handling to save data permanently.
 ✅ Enhance the UI design with better styling.
 ✅ Add error handling for invalid inputs.
+
 ---
-👨‍💻 Author
+## 👨‍💻 Author
 Aftab Riyaj Tahasildar
 GitHub: aftab-tah
 Email: aftabtahasildar2003@gmail.com
+
 ---
-⭐ Like this project?
+## ⭐ Like this project?
 If you find this project useful, don't forget to ⭐ Star the repository! 😊
